@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855729157865",
+    "project_id": "gyrolocationapp",
+    "storage_bucket": "gyrolocationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855729157865:android:69842272e69cd6b05ea278",
+        "android_client_info": {
+          "package_name": "com.gyroapp.location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855729157865-9aso5dg0p2mp63ou6fqbhpio0u4ffuju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOHQID_pebKN4RBCg4v0TaVA_8lVYhC_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855729157865-9aso5dg0p2mp63ou6fqbhpio0u4ffuju.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
